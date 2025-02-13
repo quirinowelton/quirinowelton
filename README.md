@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá 👋
+
+Sou Mestre em Biologia Animal e atualmente estudo Análise e Desenvolvimento de Sistemas (ADS). Na Vivo, atuo no desenvolvimento de soluções para transformação digital e eficiência operacional. Minhas principais atividades incluem:
+
+- Utilização de metodologias ágeis para entregas eficientes.
+- Colaboração em equipes multidisciplinares para alcançar objetivos comuns.
+- Aplicação de tecnologias como **SQL**, **Python**, **R**, **Power BI**, **Excel**, **ETL** e ferramentas de BI da Microsoft (**Power Apps**, **Power Automate** e **SharePoint**).
+
+Estou sempre buscando aprender e aplicar novas tecnologias para resolver problemas complexos e agregar valor aos projetos em que atuo.
 
 <!--
 **quirinowelton/quirinowelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
